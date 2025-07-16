@@ -26,10 +26,19 @@ Ho analizzato:
 ## 🎨 Esempio di visualizzazione
 
 ![Top Genres](top10Genres.png)
+📊 **Top 10 generi più presenti nel catalogo Netflix**
 
 ![Anno di rilascio](yearofrelease.png)
+📊 **Andamento annuale del rilascio di nuovi titoli**
 
 ![Movie Vs Tv Series](Moviesvstvshow.png)
+📊 **Confronto tra Film e Serie Tv**
+
+## 📌 Conclusioni
+
+- Il catalogo Netflix è dominato da film drammatici e documentari
+- Gli USA producono la maggior parte dei contenuti
+- Negli ultimi anni c’è stato un boom nei contenuti internazionali, che si è ridotto con l'arrivo del covid
 
 
 Il progetto è stato realizzato come esercizio personale di analisi dati.
