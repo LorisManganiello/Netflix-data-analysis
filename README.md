@@ -25,7 +25,7 @@ Ho analizzato:
 
 ## 🎨 Esempio di visualizzazione
 
-![Top Genres](top10genres.png)
+![Top Genres](top10Genres.png)
 
 ![Anno di rilascio](yearofrelease.png)
 
