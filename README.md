@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-v3.9-blue.svg)
-![Status](https://img.shields.io/badge/status-complete-yellow.svg)
-![Netflix Data Analysis](https://img.shields.io/badge/Netflix-Data%20Analysis-blue)
+![Status](https://img.shields.io/badge/status-complete-green.svg)
+![Netflix Data Analysis](https://img.shields.io/badge/Netflix-Data%20Analysis-yellow.svg)
 
 
 # 📊 Analisi del catalogo Netflix
