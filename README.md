@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-v3.9-blue.svg)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # 📊 Analisi del catalogo Netflix
 
 Questo è un progetto di analisi esplorativa dei dati del catalogo Netflix.
