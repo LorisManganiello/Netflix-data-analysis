@@ -23,4 +23,13 @@ Ho analizzato:
 2. Aprire il notebook `Netflix_Analysis.ipynb` con Jupyter
 3. Eseguire tutte le celle
 
+## 🎨 Esempio di visualizzazione
+
+![Top Genres](top10genres.png)
+
+![Anno di rilascio](yearofrelease.png)
+
+![Movie Vs Tv Series](Moviesvstvshow.png)
+
+
 Il progetto è stato realizzato come esercizio personale di analisi dati.
