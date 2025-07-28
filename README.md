@@ -42,3 +42,5 @@ Analisi:
 
 
 Il progetto è stato realizzato come esercizio personale di analisi dati.
+
+~ Loris Manganiello
