@@ -26,13 +26,13 @@ Analisi:
 ## Esempio di visualizzazione
 
 ![Top Genres](top10Genres.png)
-📊 **Top 10 generi più presenti nel catalogo Netflix**
+ **Top 10 generi più presenti nel catalogo Netflix**
 
 ![Anno di rilascio](yearofrelease.png)
-📊 **Andamento annuale del rilascio di nuovi titoli**
+ **Andamento annuale del rilascio di nuovi titoli**
 
 ![Movie Vs Tv Series](Moviesvstvshow.png)
-📊 **Confronto tra Film e Serie Tv**
+ **Confronto tra Film e Serie Tv**
 
 ## Conclusioni
 
