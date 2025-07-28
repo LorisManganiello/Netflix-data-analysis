@@ -12,7 +12,7 @@ Analisi:
 - distribuzione dei contenuti nel tempo
 - paesi più rappresentati nel catalogo
 
-## Tecnologie usate
+## Cosa ho usato
 - Python
 - Pandas
 - Matplotlib
